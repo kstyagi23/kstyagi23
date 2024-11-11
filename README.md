@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij S. Tyagi</h1>
 <h3 align="center">Travelling from code chaos to brilliant solutions with a hint of humor.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstyagi23" alt="kstyagi23" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstyagi23" alt="kstyagi23" /></a> </p>-->
 
 - I am the founder of [BRAHMAI](https://brahmai.in)
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstyagi23&show_icons=true&locale=en&layout=compact" alt="kstyagi23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstyagi23&show_icons=true&locale=en" alt="kstyagi23" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstyagi23&show_icons=true&locale=en" alt="kstyagi23" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstyagi23&" alt="kstyagi23" /></p>
