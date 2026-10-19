@@ -1,4 +1,5 @@
 # Hi, I am _Kshitij S. Tyagi_!
+<img src="./hero.gif">
 
 I like making computers do things they weren't designed to do. Then comes the less glamorous part: making those things actually work.
 
